@@ -1,0 +1,50 @@
+[
+    {
+        "nombre_estudiante": "venecoboy",
+        "materia": "Java",
+        "horario": "Tarde",
+        "nivel_preferido": "Avanzado",
+        "id": 1,
+        "fecha": "2026-10-07 09:46",
+        "tutores_recomendados": [
+            "venecoboy21"
+        ],
+        "puntaje_maximo": 100
+    },
+    {
+        "nombre_estudiante": "venecoboy",
+        "materia": "Python",
+        "horario": "Tarde",
+        "nivel_preferido": "Básico",
+        "id": 2,
+        "fecha": "2026-10-07 09:47",
+        "tutores_recomendados": [
+            "venecoboy21"
+        ],
+        "puntaje_maximo": 100
+    },
+    {
+        "nombre_estudiante": "luis",
+        "materia": "Python",
+        "horario": "Mañana",
+        "nivel_preferido": "Básico",
+        "id": 3,
+        "fecha": "2026-10-07 09:48",
+        "tutores_recomendados": [
+            "Miguel Torres"
+        ],
+        "puntaje_maximo": 88
+    },
+    {
+        "nombre_estudiante": "venecoboy",
+        "materia": "Python",
+        "horario": "Tarde",
+        "nivel_preferido": "Avanzado",
+        "id": 4,
+        "fecha": "2026-10-07 09:48",
+        "tutores_recomendados": [
+            "venecoboy21"
+        ],
+        "puntaje_maximo": 100
+    }
+]

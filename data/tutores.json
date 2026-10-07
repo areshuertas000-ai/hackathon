@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laura Gómez",
+        "materias": [
+            "Python",
+            "Bases de Datos"
+        ],
+        "horarios": [
+            "Tarde",
+            "Noche"
+        ],
+        "anios_experiencia": 4,
+        "nivel": "Avanzado"
+    },
+    {
+        "id": 2,
+        "nombre": "Carlos Ruiz",
+        "materias": [
+            "Java",
+            "Desarrollo Web"
+        ],
+        "horarios": [
+            "Mañana",
+            "Tarde"
+        ],
+        "anios_experiencia": 3,
+        "nivel": "Intermedio"
+    },
+    {
+        "id": 3,
+        "nombre": "Ana Martínez",
+        "materias": [
+            "Inglés",
+            "Matemáticas"
+        ],
+        "horarios": [
+            "Mañana",
+            "Noche"
+        ],
+        "anios_experiencia": 5,
+        "nivel": "Avanzado"
+    },
+    {
+        "id": 4,
+        "nombre": "Miguel Torres",
+        "materias": [
+            "Python",
+            "Desarrollo Web"
+        ],
+        "horarios": [
+            "Mañana"
+        ],
+        "anios_experiencia": 2,
+        "nivel": "Intermedio"
+    },
+    {
+        "id": 5,
+        "nombre": "Sofía Ramírez",
+        "materias": [
+            "Bases de Datos",
+            "Python"
+        ],
+        "horarios": [
+            "Noche"
+        ],
+        "anios_experiencia": 6,
+        "nivel": "Avanzado"
+    },
+    {
+        "id": 6,
+        "nombre": "Daniel Castro",
+        "materias": [
+            "Matemáticas",
+            "Java"
+        ],
+        "horarios": [
+            "Tarde",
+            "Noche"
+        ],
+        "anios_experiencia": 1,
+        "nivel": "Básico"
+    },
+    {
+        "nombre": "l.uis",
+        "materias": [
+            "Python"
+        ],
+        "horarios": [
+            "Mañana"
+        ],
+        "anios_experiencia": 1,
+        "nivel": "Básico",
+        "id": 8
+    }
+]
